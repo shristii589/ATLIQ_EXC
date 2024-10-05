@@ -40,7 +40,7 @@ This report provides actionable insights into customer behavior and sales dynami
 
 ## Key Components:
 
-### 1. Country List:
+### 1. Market List:
 
 A detailed list of all countries where Atliq Hardware operates, enabling clear visualization of sales distribution across different geographic regions.
 
