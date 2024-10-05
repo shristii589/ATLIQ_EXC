@@ -33,3 +33,6 @@ By examining year-over-year changes in both absolute and percentage terms, Atliq
 
 The report also serves as a foundation for forecasting future sales and developing strategies to foster sustainable customer growth, ensuring that the business continues to scale effectively.
 This report provides actionable insights into customer behavior and sales dynamics, allowing Atliq Hardware to make data-driven decisions that enhance long-term customer satisfaction and profitability.
+
+## 2. Market performance vs target report
+![Market performance vs target report]()
