@@ -36,3 +36,50 @@ This report provides actionable insights into customer behavior and sales dynami
 
 ## 2. Market performance vs target report
 ![Market performance vs target report](https://github.com/shristii589/ATLIQ_EXC/blob/main/Screenshot%202024-10-05%20205352.png)
+### This report provides a comprehensive analysis of the sales performance of Atliq Hardware across various markets (countries) from 2019 to 2021. It offers insights into how each country has performed over the years and evaluates whether the sales targets set for 2021 were achieved. This analysis supports strategic decision-making for market expansion, resource allocation, and identifying areas requiring improvement.
+
+## Key Components:
+
+### 1. Country List:
+
+A detailed list of all countries where Atliq Hardware operates, enabling clear visualization of sales distribution across different geographic regions.
+
+
+
+### 2. Net Sales for 2019, 2020, and 2021:
+
+Net Sales 2019: Provides the total sales for each country in 2019, serving as a baseline for year-over-year comparisons.
+
+Net Sales 2020: Displays the sales performance in 2020, enabling a view of market trends and shifts, especially in light of global market conditions.
+
+Net Sales 2021: Shows the sales figures for 2021, the most recent year of performance data.
+
+
+
+### 3. Net Sales 2021 vs. Target 2021:
+
+This column captures the difference between actual net sales in 2021 and the target sales for that year in each country. It highlights which markets met, exceeded, or underperformed relative to the company’s goals for 2021. Positive values show that actual sales surpassed the target, while negative values indicate a shortfall.
+
+
+
+### 4. Percentage Deviation from Target (2021):
+
+This percentage metric measures how far the 2021 net sales deviated from the target, calculated as: .
+
+It provides a clear indication of each market’s performance relative to its expected sales target. A high positive percentage reflects significant overachievement, while a negative percentage reveals underperformance compared to the forecast.
+
+
+
+
+## Insights Derived:
+
+The Market (Country) Performance Report is crucial for understanding which markets are growing and where sales targets are being met or missed. This helps the company determine which regions are performing well and where further attention is required to improve sales.
+
+By comparing year-over-year net sales data for 2019, 2020, and 2021, the company can observe trends across different countries, understanding which markets have experienced growth and which have faced challenges.
+
+The sales vs. target analysis for 2021 offers clear insights into how well each country met expectations. This information is vital for future sales forecasting and market-specific strategies, helping Atliq Hardware optimize its approach in underperforming markets or capitalize on successful ones.
+
+The percentage deviation from targets helps management focus on resource reallocation and tailor market-specific strategies, such as increased marketing efforts or pricing adjustments, to improve future performance.
+
+
+This report serves as a critical tool for evaluating the success of Atliq Hardware’s market strategies and for driving informed decisions about market development, investment, and expansion opportunities.
