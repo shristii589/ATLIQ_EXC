@@ -72,7 +72,6 @@ It provides a clear indication of each market’s performance relative to its ex
 
 
 ## Insights Derived:
-
 The Market (Country) Performance Report is crucial for understanding which markets are growing and where sales targets are being met or missed. This helps the company determine which regions are performing well and where further attention is required to improve sales.
 
 By comparing year-over-year net sales data for 2019, 2020, and 2021, the company can observe trends across different countries, understanding which markets have experienced growth and which have faced challenges.
@@ -83,3 +82,8 @@ The percentage deviation from targets helps management focus on resource realloc
 
 
 This report serves as a critical tool for evaluating the success of Atliq Hardware’s market strategies and for driving informed decisions about market development, investment, and expansion opportunities.
+
+## Conclusion
+The Customer and Market Performance Reports provide a comprehensive analysis of Atliq Hardware's sales trends from 2019 to 2021.
+The Customer Report identifies key growth drivers and customers needing improvement through year-over-year sales comparison and percentage changes.
+The Market Report evaluates country-level performance, highlighting how well each market met 2021 targets and revealing opportunities for strategic adjustments. Together, these reports offer valuable insights to optimize customer relationships, refine market strategies, and drive future growth.
