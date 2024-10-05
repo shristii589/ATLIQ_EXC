@@ -35,4 +35,4 @@ The report also serves as a foundation for forecasting future sales and developi
 This report provides actionable insights into customer behavior and sales dynamics, allowing Atliq Hardware to make data-driven decisions that enhance long-term customer satisfaction and profitability.
 
 ## 2. Market performance vs target report
-![Market performance vs target report]()
+![Market performance vs target report](https://github.com/shristii589/ATLIQ_EXC/blob/main/Screenshot%202024-10-05%20205352.png)
